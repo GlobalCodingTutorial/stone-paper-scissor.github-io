@@ -1,6 +1,9 @@
 ﻿# stone-paper-scissor.github-io
 
- *techology used :
+*discription :- A web application of Stone-Paper-Scissor single player game which is fully functional and developed using frontend programming.
+
+
+ *techology used :-
 
   1. HTML
 
