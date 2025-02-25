@@ -1,6 +1,6 @@
 ﻿# stone-paper-scissor.github-io
 
-*discription :- A web application of Stone-Paper-Scissor single player game which is fully functional and developed using frontend programming.
+*discription :- A responsive web application of Stone-Paper-Scissor single player game which is fully functional and developed using frontend programming.
 
 
  *techology used :-
